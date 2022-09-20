@@ -1,0 +1,17 @@
+{
+	"name": "jest-testing",
+	"version": "1.0.0",
+	"description": "Testing javascript functions with jest",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --watchAll"
+	},
+	"author": "BamboTims",
+	"license": "ISC",
+	"devDependencies": {
+		"jest": "^29.0.3"
+	},
+	"dependencies": {
+		"node-fetch": "^2.6.1"
+	}
+}
